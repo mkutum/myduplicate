@@ -1,0 +1,35 @@
+#rfqs {
+  position: absolute;
+  left: 4%;
+  width: 96%;
+  height: 100vh;
+  /* margin: auto; */
+  font-family: "Mulish", sans-serif;
+  border: 2px solid #ffffff;
+}
+#rfq_record {
+  width: 81%;
+  background-color: #f7f8fc;
+}
+#rfq_search {
+  width: 100%;
+}
+#rfq_right {
+  width: 18.5%;
+  height: 100vh;
+  background-color: #eff0f8;
+  position: fixed;
+  right: 0;
+  top: 0;
+}
+#rfq_right_bar {
+  width: 100%;
+}
+#rfq_right_bar {
+  cursor: pointer;
+}
+input::placeholder {
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.8px;
+}

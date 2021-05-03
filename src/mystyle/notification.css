@@ -1,0 +1,15 @@
+.MuiButton-root {
+  border-radius: 10px !important;
+}
+.button1 {
+  color: #3751ff;
+  background: #eff0f8;
+}
+.button2 {
+  background: #363740;
+  color: #fff;
+}
+#orginal {
+  color: #3751ff;
+  background: #eff0f8;
+}
